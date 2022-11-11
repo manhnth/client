@@ -1,0 +1,9 @@
+{
+  "short_name": "Rent A Car",
+  "name": "Rent A Car Website",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
